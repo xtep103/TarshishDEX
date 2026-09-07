@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/23-48-50-51-52",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/23-48-50-51-52": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/23-48-50-51-52",
+    "origin"
+  ]
+}
